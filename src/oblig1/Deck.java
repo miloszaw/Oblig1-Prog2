@@ -41,6 +41,7 @@ public class Deck {
         suits.add('H');
         suits.add('D');
         suits.add('C');
+        suits.add('E');
         for(int i = 0; i < suits.size(); i++)
         {
             for (int j = 1; j < 14; j++)
